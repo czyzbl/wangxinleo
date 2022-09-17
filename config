@@ -4,4 +4,9 @@ export const config = (
 "template_id": "o8lZF6PfPrkOkLbeo5OmsM_1WfjI"
 "user": ["o8lZF6CKjlziLUxhn4Rs4z2UtiS0", "o8lZF6PfPrkOkLbeo5OmsM_1WfjI"],
 
-province:"南京"
+city:"南京"
+festival:{
+{"type":"生日","name":老婆","year":"2003","date":"04-05"},
+{"type":"生日","name":老公","year":"2002","date":"12-18"},
+},
+love_date:"2018-12-31",
