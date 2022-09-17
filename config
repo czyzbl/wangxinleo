@@ -1,0 +1,7 @@
+export const config = (
+"app_id": "wx76813b0ebc31715f";
+"app_secret": "5312c6b4911536fa47d0b9c05311bc1a";
+"template_id": "o8lZF6PfPrkOkLbeo5OmsM_1WfjI"
+"user": ["o8lZF6CKjlziLUxhn4Rs4z2UtiS0", "o8lZF6PfPrkOkLbeo5OmsM_1WfjI"],
+
+province:"南京"
